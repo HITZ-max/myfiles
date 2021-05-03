@@ -1,0 +1,104 @@
+缩写	中文全称		出现PPT	英文全称
+ABM		异步平衡方式		2	Asyncronous balancing mode
+ACSI	抽象通信服务接口	2	Abstract communication service interface
+ADC		先进数据库连接器	8	Advance Database Connector
+ADU		应用数据单元 		2	Application data unit
+AMS		资产管理系统		3	Asset Management System
+ARM		异步响应方式		2	Asynchronous response mode
+		嵌入式系统			3	?
+ARP		地址解析协议		14	Address Resolution Protocol
+ASCII 	国信息交换标准代码 	2	American Standard Code for Information Interchange
+ASDUs	应用服务数据单元	2	Apply service data units
+AS-i	执行器传感器接口	2	Actuator sensor interface
+ASP		动态服务器页面		8	Active Server Page	
+CAN		控制器局域网 		2	Controller LAN
+CDIs	控制设备―设备接口	2	Controller-device interface
+CGI		公共网关接口		8	Common Gateway Interface
+CIM		公共信息模型		2	common information model
+CIP		通用工业协议		3	?
+CIS		组件接口规范		2	component interface specifications
+CP		通信处理器			5	Communication processor
+CR		命令寄存器			15	Command register
+CRC		循环冗余校验		15	Cyclic Redundancy Check
+CSV		逗号分隔文件		4	?
+CURR	当前存储器页面寄存器 15	?
+DA		目的地址			13	Destination address
+DCE		数据线路端接设备	2	Data line terminal equipment
+DDE		微软推出的一种基于	4	视窗操作系统的内部程序通信协议，提供数据的为服务器，接受数据的为客户端.	
+DH 		增加头部			2	?
+DLL		动态链接库			7	Dynamic link library
+DMA		直接存储器访问		15	Direct Memory Access
+DT		增加尾部			2	?
+DTE		数据终端设备		2	Data terminal equipment
+EAM		企业资产管理		3	Enterprises Asset Management
+EDS		电子数据表格		4	?
+EIA		美国电子工业协会 	2	Electronic Industries Association
+EMC		电磁兼容性			1	?
+EMI		电磁干扰			1	?
+EMS		能量管理系统		2	Energy management system
+FDO		功能设备对象		7	Function device object
+FiDO	过滤器设备对象		7	?
+EPR		期待信息包速率		6	Expected packet rate
+FTU		馈线终端单元		1	Feeder terminal unit
+HDLC	高级数据链路控制	2	High - level Data Link Control
+HTTP	超文本传输协议		15	HyperText Transfer Protocol
+HLI		高级接口			13	?
+HMI		人机界面			10	Human Machine Interface
+IAR		中断响应寄存器		12	?
+ICI		接口控制信息		2	Interface control information
+ICT		信息通信技术 		1	Information communication technology
+IDC		Internet数据库连接器 8	Internet Database Connector
+IED		智能电子设备 		2	Intelligent electronic devices
+IDU		接口数据单元		2	Interface data unit
+IIS		Internet信息服务	8	Internet Information Server 
+ISO 	国际标准化组织		2	International Standardization Organization
+ISR		中断状态寄存器		15	Interrupt status register
+IMR		中断屏蔽寄存器		12	?
+IP		因特网协议 			2	Internet Protocol
+IR		中断寄存器			12	?
+IRP		I/O请求包			7	I/o request package
+IRR		中断请求寄存器		12	?
+JDBC	\					8	Java Database Connectivity
+JTAG	联合测试工作组		6	Joint Test Action Group
+LLC		逻辑链路控制		13	Logical link control
+LN 		逻辑节点			2	Logical node
+MAC		介质访问控制		2	Media access control
+		网卡物理地址		6	?
+MCC		电动机控制中心		1	Motor Control Center
+NRM		正常响应方式		2	Normal response mode
+NRZ		不归零码			1	Non-Return-to-Zero
+OBT		光总线终端			5	Optical Bus Terminal
+ODBC	开放式数据库互连	8	Open Database Connectivity
+OLM		光链路模块			5	Optical Link Module
+OLP		光链路插头			5	Optical Link Plug
+OPC		基于微软OLE技术的	4	在客户程序与服务器之间通信与交换数据的工业标准
+OSI		开放系统互联		2	Open System Interconnect
+PAM		实时工厂资产管理	3	Plant Asset Management
+PCI		外设部件互连标准	7	Peripheral Component Interconnect
+PCM 	脉码调制			1	Pulse code modulation
+PDO		物理设备对象		7	Physical device object
+PDU		协议数据单元		2	Protocol data unit
+PLC		可编程逻辑控制器	3	Programmable logic controller
+PnP		即插即用			11	Plug-and-Play
+PRM		设备资源管理		3	Plant Resource Management
+RARP	反向地址转换协议	14	Reverse ARP(Address Resolution Protocol)
+RS		推荐标准			2	Recommended Standard
+RTU		远程终端单元		1	Remote terminal unit
+SA		源地址				13	source address
+SAP 	服务访问点			2	Service access point
+SCL		变电站配置语言		2	Substation configuration language
+SCSM	特定通信服务映射	2	Specific communication service mapping	
+SDI		单文档接口			7	single document interface
+SDU		服务数据单元		2	Service data unit
+SDS		智能分布系统		2	Smart distributed system
+SNAP	子网访问协议		13	Subnetwork Access Protocol
+SoC		嵌入式系统/片上系统	1	system on a chip
+TCP		传输控制协议 		2	Transport Control Protocol
+TIA		美国电信工业协会	2	Telecommunications Industry Association
+TOS		服务类型			15	?
+TTU		变压器终端单元		1	Transformer Terminal Unit
+TTL		跳数				14	time-to-live
+UART 	通用异步收发器		1	Universal Asynchronous Receiver／Transmitter
+UDP		用户数据报协议		14	User datagram protocol
+UML 	统一建模语言		2	Unified Modeling Language
+UPS		即不间断电源		10	Uninterruptible Power Supply
