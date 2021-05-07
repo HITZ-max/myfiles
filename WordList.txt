@@ -1,3 +1,4 @@
+56
 vomit	呕吐
 removal	除去、移动
 coral	珊瑚
@@ -38,3 +39,22 @@ tremedous	震耳欲聋
 integrity	正直
 imminent	迫在眉睫
 minority	少数民族
+
+57
+tape	磁带
+mistrial	无效审判
+zealous	热情的；热烈的
+attorney	律师（代人出庭者）
+baltimore	巴尔的摩
+divorce	离婚的男子；离婚；脱离
+jeopardy	危险
+hindsight	事后聪明；事后的领悟
+indecent	下流的；不合时宜的
+racism	种族歧视
+morale	士气
+ethic	伦理道德；行为准则	
+resonate	产生共鸣；回荡；起回声
+brutal	残暴的；冷酷的；直截了当的；野蛮的
+yoke	上枷锁；奴役；轭
+amplify	放大
+embolden	使加强勇气；使文本变粗体
