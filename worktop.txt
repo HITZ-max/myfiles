@@ -1,0 +1,30 @@
+PPT1
+智能电器和传统电器的区别、理论、硬件组成、技术；信号分类；装置实例；
+PPT2
+网络技术；协议分层；服务、接口、协议；OSI模型；典型现场总线模型；链路配置（平衡、非平衡）；总线标准、网络标准；UATR简单串行通信；发展趋势
+PPT3
+现场总线硬件构成；PLC；DeviceNet；软件；现场总线发展趋势；关键技术；
+PPT4
+罗克韦尔现场总线；SLC-500；Cpmpactlogix；PLC-5；DeviceNet硬件；ControlNet硬件；DeviceNet软件（RSLink；RSView32；RSLogix500）详细介绍；RSNetworx for DeviceNet；DeviceNet Configuration；RSlink开头的软件；
+PPT5
+组态软件（InTouch；FIX；Citech；WinCC；组态王；ControlX）；RSView32；屏蔽双绞线；PROFIBUS-**；光纤；PROFIBUS；S7-***；RS 485；CP5611 CP5511；STEP7；WinCC；组态王；ControlX）；RSView32；屏蔽双绞线；PROFIBUS-**；光纤；PROFIBUS；S7-***；RS
+PPT6
+DeviceNet从站软硬件;SJA1000;C8051F020
+PPT7
+基于PC机的现场总线系统；RS232；RS485；ADAM-4520；USB1.1 2.0；Ring；MSComm；WinAPI；DDK；DriverStudio；WinDriver；WDM；DriverWizard；.dll；
+PPT8
+Web数据库技术；CGI；IDC；ASP；ADC；Java/JDBC；ASP；Web API；ODBC；ADO；IIS；Web站点相关；FTP；SMTP；
+PPT9
+MODbus协议系统；
+PPT10
+Modbus链路；RTU；AC85-264V；DC24V；DC105-370V；ATV58；
+PPT11
+基于PC的CAN主站设计；PCI；桥接芯片；SJA1000；PCI9052；PCA82C250;EEPROM；93SC56；驱动；DriverStudio；动态链接库；数据服务器；CANServer；
+PPT12
+PROFIBUS-DP从站设计；单片机+软件；PACKAGE 4；SIMENS；SPC3 4；SPM2；LSPM2；ASPC2；MAX485 487 1487；
+PPT13
+以太网；Aloha；Xreox；DIX；IEEE802.1~5；以太网规约；10BASE2 10BASE-T -F -TX -FX -T4 -SX -LX -CX -T；CSMA/CD；坚持与退避算法；TCP/IP参考模型；
+PPT14
+以太网从站设计；IP；IPV4 IPV6；ARP RARP；ICMP协议；传输层协议（TCP；UDP）；三次握手；四次握手
+PPT15
+以太网控制器（网卡）；DMA；

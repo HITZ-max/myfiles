@@ -101,4 +101,4 @@ TTL		跳数				14	time-to-live
 UART 	通用异步收发器		1	Universal Asynchronous Receiver／Transmitter
 UDP		用户数据报协议		14	User datagram protocol
 UML 	统一建模语言		2	Unified Modeling Language
-UPS		即不间断电源		10	Uninterruptible Power Supply
+UPS		不间断电源			10	Uninterruptible Power Supply
